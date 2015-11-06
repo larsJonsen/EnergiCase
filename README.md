@@ -2,4 +2,4 @@
 
 Her er hjælpe filer til Energi casen
 
-[Min første video](./Video/Maple_Excel_import.mp4)
+[Min første video](https://youtu.be/SkZlkXpAmBc)
