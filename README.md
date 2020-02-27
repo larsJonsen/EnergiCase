@@ -8,7 +8,8 @@ Her er hjælpe filer til Energi casen. Mapel filerne indeholder de nødvendige k
 Zipfilen indeholder:
 
 - Dokumenter
-    - *UdbudEftersporgsel.pdf* Opgave teksten
+    - *Opgaver.pdf* Opgave teksten
+    - *Elastisk udbud.pdf* Teoretisk forklaring på samfundøkonomisk tab ved fsast pris. Er nødvendig for at forstå de sidste opgave
 
 - Mapel 
     - *Tidsserie_eksempler.mw* giver eksmpler på at bruge tidserie som opgavens øvelse 1--7 
