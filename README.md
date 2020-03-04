@@ -3,7 +3,7 @@
 
 ## Filer
 
-Her er hjælpe filer til Energi casen. Mapel filerne indeholder de nødvendige koder til at udføre opgaverne. [Download alle filer som zip (ikke video)](https://github.com/larsJonsen/EnergiCase/archive/master.zip) eller nviger til den enkelt fil og download ved at højreklikke.
+Her er hjælpe filer til Energi casen. Mapel filerne indeholder de nødvendige koder til at udføre opgaverne. [Download alle filer som zip (ikke video)](https://github.com/larsJonsen/EnergiCase/archive/master.zip) eller naviger til den enkelt fil og download ved at højreklikke.
 
 Zipfilen indeholder:
 
